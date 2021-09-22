@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.imageClass{
+	display:inline-block;
+	margin: 10px;
+	padding:20px;
+	border: 2px solid orange;
+	border-radius: 20px
+}
